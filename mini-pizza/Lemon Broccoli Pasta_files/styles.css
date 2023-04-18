@@ -1,0 +1,28 @@
+*{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.picture, .about, .rpage-link{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rpage-link, .ingredients, .method{
+
+    display: inline-block
+
+}
+
+.title{
+    background-color:red;
+    color:white;
+}
+
+.about{
+    height:100;
+    width: 300px;
+    padding: 5px;
+    border: 2px solid white;
+}
+
